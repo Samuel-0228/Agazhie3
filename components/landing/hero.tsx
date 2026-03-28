@@ -58,7 +58,7 @@ export function Hero() {
                 {/* Goongoon coverage map image */}
                 <div className="bg-gradient-to-br from-primary/5 via-background to-accent/5 p-4 sm:p-6">
                   <Image
-                    src="/images/goongoon-map.svg"
+                    src="/images/goongoon-map.svg.png"
                     alt="Goongoon coverage map of Ethiopia"
                     width={400}
                     height={400}
