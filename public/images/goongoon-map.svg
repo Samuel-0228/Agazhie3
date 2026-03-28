@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Goongoon coverage map of Ethiopia">
+  <!-- Ethiopia outline -->
+  <path
+    d="M 37 4 L 43 3 L 48 5 L 55 4 L 62 7 L 68 12 L 72 10 L 77 13 L 80 18 L 78 23 L 82 27 L 82 33 L 79 37 L 84 42 L 82 47 L 76 50 L 72 55 L 68 60 L 63 65 L 60 71 L 56 76 L 50 80 L 45 76 L 40 72 L 36 66 L 33 60 L 28 56 L 24 52 L 22 46 L 24 40 L 20 35 L 18 29 L 21 23 L 25 18 L 29 14 L 34 8 Z"
+    fill="hsl(145,30%,92%)"
+    stroke="hsl(145,40%,60%)"
+    stroke-width="0.8"
+    stroke-linejoin="round"
+  />
+  <!-- Connection lines from Addis Ababa to other cities -->
+  <line x1="52" y1="47" x2="37" y2="28" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <line x1="52" y1="47" x2="43" y2="20" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <line x1="52" y1="47" x2="63" y2="33" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <line x1="52" y1="47" x2="29" y2="52" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <line x1="52" y1="47" x2="65" y2="54" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <line x1="52" y1="47" x2="51" y2="65" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <line x1="52" y1="47" x2="73" y2="44" stroke="hsl(145,50%,55%)" stroke-width="0.5" stroke-dasharray="1.5 1.5" opacity="0.6"/>
+  <!-- Bahir Dar -->
+  <circle cx="37" cy="28" r="10" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="37" cy="28" r="7" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="37" cy="28" r="1.2" fill="white" opacity="0.9"/>
+  <text x="37" y="40" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Bahir Dar</text>
+  <!-- Gondar -->
+  <circle cx="43" cy="20" r="10" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="43" cy="20" r="7" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="43" cy="20" r="1.2" fill="white" opacity="0.9"/>
+  <text x="43" y="32" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Gondar</text>
+  <!-- Dire Dawa -->
+  <circle cx="63" cy="33" r="10" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="63" cy="33" r="7" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="63" cy="33" r="1.2" fill="white" opacity="0.9"/>
+  <text x="63" y="45" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Dire Dawa</text>
+  <!-- Jimma -->
+  <circle cx="29" cy="52" r="8" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="29" cy="52" r="5" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="29" cy="52" r="1.2" fill="white" opacity="0.9"/>
+  <text x="29" y="62" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Jimma</text>
+  <!-- Harar -->
+  <circle cx="65" cy="54" r="8" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="65" cy="54" r="5" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="65" cy="54" r="1.2" fill="white" opacity="0.9"/>
+  <text x="65" y="64" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Harar</text>
+  <!-- Hawassa -->
+  <circle cx="51" cy="65" r="9" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="51" cy="65" r="6" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="51" cy="65" r="1.2" fill="white" opacity="0.9"/>
+  <text x="51" y="76" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Hawassa</text>
+  <!-- Jijiga -->
+  <circle cx="73" cy="44" r="8" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="73" cy="44" r="5" fill="hsl(145,45%,55%)" opacity="0.85"/>
+  <circle cx="73" cy="44" r="1.2" fill="white" opacity="0.9"/>
+  <text x="73" y="54" text-anchor="middle" font-size="2.6" font-weight="500" fill="hsl(145,35%,25%)">Jijiga</text>
+  <!-- Addis Ababa (primary hub) -->
+  <circle cx="52" cy="47" r="17" fill="hsl(145,55%,50%)" opacity="0.12"/>
+  <circle cx="52" cy="47" r="14" fill="hsl(145,55%,45%)" opacity="0.85"/>
+  <circle cx="52" cy="47" r="1.2" fill="white" opacity="0.9"/>
+  <text x="52" y="65" text-anchor="middle" font-size="3.2" font-weight="700" fill="hsl(145,35%,25%)">Addis Ababa</text>
+</svg>
