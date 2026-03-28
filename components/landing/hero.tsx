@@ -73,8 +73,8 @@ export function Hero() {
                     <span className="text-xs text-muted-foreground">Tutors</span>
                   </div>
                   <div className="flex flex-col items-center py-3 px-2 text-center">
-                    <span className="text-lg font-bold text-primary">8</span>
-                    <span className="text-xs text-muted-foreground">Cities</span>
+                    <span className="text-lg font-bold text-primary">300+</span>
+                    <span className="text-xs text-muted-foreground">Locationa</span>
                   </div>
                   <div className="flex flex-col items-center py-3 px-2 text-center">
                     <span className="text-lg font-bold text-primary">500+</span>
